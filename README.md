@@ -1,4 +1,7 @@
-dragon
-======
+mkdir ~/dragon
 
-dragon radar
+cd ~/dragon
+
+git init
+
+touch README
